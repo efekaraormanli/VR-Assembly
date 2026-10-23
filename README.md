@@ -1,7 +1,7 @@
 # CSC 461/592 – Assignment 3 VR Assembly
 
 ## Team
-Efe Kaan Karaormanli
+Efe Kaan Karaormanli and Ahmet Nejdet Begdes
 
 ## VR Assembly
 The assembly object is a **15-part toy robot** built on a workbench in a small VR workshop. A second workbench next to it holds an **11-part toy rocket** (Bonus 3). The user stands in the corner between the two benches, grabs parts with the VR controllers and places them step by step in a fixed order. A glowing **ghost** shows exactly where the current part goes, a floating **marker** points at the part to pick up, and a **world-space panel** shows the current step, an instruction and the full checklist. When an object is finished it switches to **disassembly**, and the parts come off in reverse order (Bonus 2).

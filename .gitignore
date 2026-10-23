@@ -76,3 +76,6 @@ crashlytics-build.properties
 
 # Unity 6 solution file
 *.slnx
+
+# Claude Code local settings
+.claude/
